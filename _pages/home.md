@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am a PhD student. ldfare a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+I am a PhD student at the Chinese University of Hong Kong, [Earth System Science Programme](http://www.cuhk.edu.hk/sci/essc/). I am working with Prof. Lin LIU, and we are working on [cryosphere](https://cryocuhk.github.io/).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
