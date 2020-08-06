@@ -1,7 +1,7 @@
 ---
 title: "Enze ZHANG - Home"
 layout: homelay
-excerpt: "PhD at Chinese University of Hong Kong."
+excerpt: "Ph.D. at Chinese University of Hong Kong."
 sitemap: false
 permalink: /
 ---
